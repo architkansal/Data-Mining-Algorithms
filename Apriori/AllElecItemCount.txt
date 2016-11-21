@@ -1,0 +1,6 @@
+	ID		Transactions
+I1		6
+I2		7
+I3		7
+I4		2
+I5		2
